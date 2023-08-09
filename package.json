@@ -14,9 +14,11 @@
   },
   "dependencies": {
     "@babylonjs/materials": "^6.15.0",
+    "babylon-msdf-text": "^0.0.2",
     "cannon": "^0.6.2",
     "quad-indices": "^2.0.1",
     "three": "^0.155.0",
+    "tweakpane": "^4.0.0",
     "word-wrapper": "^1.0.7"
   }
 }
